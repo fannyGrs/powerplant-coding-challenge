@@ -1,4 +1,17 @@
-# powerplant-coding-challenge
+# Fanny Grasset's REST API
+
+To use the API I've made, please use the followings commands:
+
+```
+cd \powerplant-coding-challenge\code_fanny_grasset
+pip install -r requirements.txt
+python3 -m uvicorn main:app
+```
+
+You can contact me anytime if you have any questions ! :slightly_smiling_face:
+> fanny.grasset@hotmail.fr
+
+# powerplant-coding-challenge: instructions of the challenge
 
 
 ## Welcome !
